@@ -64,49 +64,8 @@ I am a third-year Computer Science student, with a strong interest in cybersecur
   </a>
 </p>
 
-## Featured Projects
 
-### Twisk
-A project combining **Java** and **C** around a simulation with a graphical interface, concurrency, native code generation, and path logic.
 
-**Skills used:**
-- object-oriented programming
-- concurrency
-- graphical interface
-- Java / C interaction
-- software architecture
-
-### Symfony Web Application
-Development of a complete application with **PHP/Symfony** and **PostgreSQL**, including data modeling, business entities, application logic, and user management.
-
-**Skills used:**
-- web backend
-- MVC architecture
-- relational database
-- Doctrine / migrations
-- validation and application flow management
-
-### Compiler
-Design of a compiler with **lexical analysis**, **syntax analysis**, **semantic analysis**, **symbol tables**, and **MIPS code generation**.
-
-**Skills used:**
-- formal languages
-- compilation
-- JFlex / CUP
-- code generation
-- structuring a complex project
-
-### Puzzle Game
-An application project focused on puzzle management and generation, with work on interface design, storage, and data handling.
-
-**Skills used:**
-- application development
-- file handling
-- data structures
-- business logic
-- user interface
-
----
 
 ## Pinned Repositories
 
