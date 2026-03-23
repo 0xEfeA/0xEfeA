@@ -5,7 +5,7 @@
   <a href="https://github.com/0xEfeA">
     <img src="https://img.shields.io/badge/GitHub-0xEfeA-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="www.linkedin.com/in/bayramefeayata">
+  <a href="https://www.linkedin.com/in/bayramefeayata">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:bayramefeayata@gmail.com">
