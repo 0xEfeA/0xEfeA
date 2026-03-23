@@ -1,12 +1,12 @@
 <h1 align="center">Bayram-Efe AYATA</h1>
-<h3 align="center">Étudiant en L3 Informatique • Développement logiciel • Systèmes • Réseaux • Cybersécurité</h3>
+<h3 align="center">Third-year Computer Science student • Software Development • Systems • Networks • Cybersecurity</h3>
 
 <p align="center">
   <a href="https://github.com/0xEfeA">
     <img src="https://img.shields.io/badge/GitHub-0xEfeA-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="www.linkedin.com/in/bayramefeayata">
-    <img src="https://img.shields.io/badge/LinkedIn-Profil-0A66C2?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:bayramefeayata@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail" />
@@ -15,23 +15,23 @@
 
 ---
 
-## À propos de moi
+## About Me
 
-Étudiant en 3ème année de licence Informatique, je m’intéresse particulièrement au développement logiciel, aux systèmes, aux réseaux et à la cybersécurité.
-
----
-
-## Ce que je fais actuellement
-
-- Développement de projets académiques en **Java**, **C**, **PHP/Symfony**, **SQL** et **Python**
-- Travail sur des sujets liés aux **bases de données**, à la **programmation orientée objet**, aux **systèmes** et à la **compilation**
-- Approfondissement personnel de la **cybersécurité** via des plateformes comme **TryHackMe**, **Root-Me** et **OverTheWire**
+I am a third-year Computer Science student, with a strong interest in cybersecurity.
 
 ---
 
-## Technologies et outils
+## What I Am Currently Doing
 
-### Langages
+- Developing academic projects in **Java**, **C**, **PHP/Symfony**, **SQL**, and **Python**
+- Working on topics related to **databases**, **object-oriented programming**, **systems**, and **compilers**
+- Improving my cybersecurity skills through platforms such as **TryHackMe**, **Root-Me**, and **OverTheWire**
+
+---
+
+## Technologies and Tools
+
+### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -40,7 +40,7 @@
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![MIPS](https://img.shields.io/badge/MIPS-555555?style=flat-square)
 
-### Frameworks / outils
+### Frameworks / Tools
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-1E90FF?style=flat-square)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -54,63 +54,61 @@
 ![JFlex](https://img.shields.io/badge/JFlex-444444?style=flat-square)
 ![CUP](https://img.shields.io/badge/JavaCUP-444444?style=flat-square)
 
-### Profils cybersécurité
+### Cybersecurity Profiles
 <p align="left">
   <a href="https://www.root-me.org/0xEfe-323211">
-    <img src="https://img.shields.io/badge/Root--Me-Profil-black?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Root--Me-Profile-black?style=for-the-badge" />
   </a>
   <a href="https://tryhackme.com/p/0xEfe">
-    <img src="https://img.shields.io/badge/TryHackMe-Profil-red?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge" />
   </a>
 </p>
 
-
-## Projets mis en avant
+## Featured Projects
 
 ### Twisk
-Projet mêlant **Java** et **C** autour d’une simulation avec interface graphique, concurrence, génération de code natif et logique de parcours.
+A project combining **Java** and **C** around a simulation with a graphical interface, concurrency, native code generation, and path logic.
 
-**Compétences mobilisées :**
-- programmation orientée objet
-- concurrence
-- interface graphique
-- interaction Java / C
-- architecture logicielle
+**Skills used:**
+- object-oriented programming
+- concurrency
+- graphical interface
+- Java / C interaction
+- software architecture
 
-### Application web Symfony
-Développement d’une application complète avec **PHP/Symfony** et **PostgreSQL**, impliquant modélisation de données, entités métier, logique applicative et gestion des utilisateurs.
+### Symfony Web Application
+Development of a complete application with **PHP/Symfony** and **PostgreSQL**, including data modeling, business entities, application logic, and user management.
 
-**Compétences mobilisées :**
-- backend web
-- architecture MVC
-- base de données relationnelle
+**Skills used:**
+- web backend
+- MVC architecture
+- relational database
 - Doctrine / migrations
-- validation et gestion des flux applicatifs
+- validation and application flow management
 
-### Compilateur
-Conception d’un compilateur avec **analyse lexicale**, **analyse syntaxique**, **analyse sémantique**, **tables des symboles** et **génération de code MIPS**.
+### Compiler
+Design of a compiler with **lexical analysis**, **syntax analysis**, **semantic analysis**, **symbol tables**, and **MIPS code generation**.
 
-**Compétences mobilisées :**
-- langages formels
+**Skills used:**
+- formal languages
 - compilation
 - JFlex / CUP
-- génération de code
-- structuration d’un projet complexe
+- code generation
+- structuring a complex project
 
 ### Puzzle Game
-Projet d’application autour de la gestion et de la génération de puzzles avec réflexion sur l’interface, le stockage et la manipulation de données.
+An application project focused on puzzle management and generation, with work on interface design, storage, and data handling.
 
-**Compétences mobilisées :**
-- développement applicatif
-- gestion de fichiers
-- structure de données
-- logique métier
-- interface utilisateur
+**Skills used:**
+- application development
+- file handling
+- data structures
+- business logic
+- user interface
 
 ---
 
-## Dépôts épinglés
-
+## Pinned Repositories
 
 <p align="center">
   <a href="https://github.com/0xEfeA/Twisk">
@@ -132,15 +130,13 @@ Projet d’application autour de la gestion et de la génération de puzzles ave
 
 ---
 
+## Areas of Interest
 
-
-## Domaines d’intérêt
-
-- Cybersécurité
-- Systèmes et réseaux
-- Développement backend
-- Algorithmique
-- Conception logicielle
-- Bases de données
+- Cybersecurity
+- Systems and networks
+- Backend development
+- Algorithms
+- Software design
+- Databases
 - Compilation
-- Analyse technique des outils et architectures
+- Technical analysis of tools and architectures
